@@ -1,0 +1,46 @@
+﻿  stdafx.cpp
+  WT_SAVE.CPP
+  VECLEN.CPP
+  TRAIN.CPP
+  SVDCMP.CPP
+  SHAKE.CPP
+  REGRESS.CPP
+g:\repos\neural\neural\regress.cpp(70): warning C4018: '<' : signed/unsigned mismatch
+g:\repos\neural\neural\regress.cpp(110): warning C4018: '<' : signed/unsigned mismatch
+g:\repos\neural\neural\regress.cpp(160): warning C4018: '<' : signed/unsigned mismatch
+  PARSDUBL.CPP
+  Neural.cpp
+g:\repos\neural\neural\neural.cpp(24): warning C4005: '_CRT_SECURE_NO_DEPRECATE' : macro redefinition
+          command-line arguments :  see previous definition of '_CRT_SECURE_NO_DEPRECATE'
+  NETWORK.CPP
+g:\repos\neural\neural\network.cpp(61): warning C4018: '<' : signed/unsigned mismatch
+  MESSAGES.CPP
+  MEM.CPP
+  LONGRAND.CPP
+  LAYERNET.CPP
+  KOHNET.CPP
+g:\repos\neural\neural\kohnet.cpp(365): warning C4018: '<' : signed/unsigned mismatch
+g:\repos\neural\neural\kohnet.cpp(484): warning C4018: '<' : signed/unsigned mismatch
+g:\repos\neural\neural\kohnet.cpp(590): warning C4018: '<' : signed/unsigned mismatch
+g:\repos\neural\neural\kohnet.cpp(712): warning C4018: '<' : signed/unsigned mismatch
+  GEN_INIT.CPP
+g:\repos\neural\neural\gen_init.cpp(161): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+g:\repos\neural\neural\gen_init.cpp(235): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+g:\repos\neural\neural\gen_init.cpp(508): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+g:\repos\neural\neural\gen_init.cpp(535): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+g:\repos\neural\neural\gen_init.cpp(539): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+g:\repos\neural\neural\gen_init.cpp(577): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+  EXECUTE.CPP
+  DOTPROD.CPP
+  DIRECMIN.CPP
+  CONTROL.CPP
+  CONJGRAD.CPP
+g:\repos\neural\neural\conjgrad.cpp(264): warning C4018: '<' : signed/unsigned mismatch
+  Generating Code...
+  Compiling...
+  CONFUSE.CPP
+  ANNEAL.CPP
+  ACT_FUNC.CPP
+  ACTIVITY.CPP
+  Generating Code...
+  Neural.vcxproj -> G:\repos\Neural\Debug\Neural.exe
